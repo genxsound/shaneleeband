@@ -87,15 +87,16 @@ paginate = 10
 
     logo = "img/shaneleeband.png"
     address = """<p><strong>Shane Lee Band</strong>
-        <br>2212 W 1170 S
+        <br>
         <br>Lehi, UT 84043
         <br>USA
         <br>
+        <br>shane.d.lee@gmail.com
         <br>(801) 602-0570
       </p>
       """
-    latitude = "40.374299"
-    longitude = "-111.884928"
+    latitude = "40.4133408"
+    longitude = "-111.9388354"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
