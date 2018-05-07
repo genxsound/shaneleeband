@@ -1,0 +1,167 @@
+baseurl = "https://localhost:1313"
+title = "Shane Lee Band"
+theme = "hugo-universal-theme"
+themesDir = "themes"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "shaneleeband"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[menu.main]]
+    name = "Bio"
+    identifier = "bio"
+    url  = "/categories/bio/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "https://facebook.com/shaneleeband"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Email"
+    url = "mailto:shane.d.lee@gmail.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "shaneleeband"
+    defaultKeywords = ["shaneleeband", "utah", "country", "live", "band"]
+    defaultDescription = "Utah's Best Country Music"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyC-yP_RfPY9doytxrwCbkxT51vWG2aoOG8"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "shane.d.lee@gmail.com"
+
+    about_us = "<p>The Shane Lee Band is one of Utah's premier country bands.</p>"
+    copyright = "Copyright (c) 2003 - 2018, Shane Lee Band; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/shaneleeband.png"
+    address = """<p><strong>Shane Lee Band</strong>
+        <br>2212 W 1170 S
+        <br>Lehi, UT 84043
+        <br>USA
+        <br>
+        <br>(801) 602-0570
+      </p>
+      """
+    latitude = "40.374299"
+    longitude = "-111.884928"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """
+    <p class="hidden-sm hidden-xs">
+        <i class="fa fa-phone"> (801) 602-0570 </i>
+        <br>
+        <i class="fa fa-envelope"> shane.d.lee@gmail.com </i>
+    </p>
+    <p class="hidden-md hidden-lg">
+        <a href="#" data-animate-hover="pulse">
+            <i class="fa fa-phone">(801) 602-0570</i>
+        </a>
+        <a href="#" data-animate-hover="pulse">
+            <i class="fa fa-envelope">shane.d.lee@gmail.com</i>
+        </a>
+    </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have had the privilege to play for many peopl and we always like to hear they come away happy and satisfied. Have a look what our fans said about us."
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-volume-up"
+    title = "genXsound"
+    subtitle = "Interested in having Shane Lee run sound for your event. Check out genXsound.com"
+    link_url = "http://www.genxsound.com"
+    link_text = "Visit genXsound.com"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "See what's going on with the Shane Lee Band. Here are the most recent posts."
