@@ -111,12 +111,8 @@ paginate = 10
         <i class="fa fa-envelope"> shane.d.lee@gmail.com </i>
     </p>
     <p class="hidden-md hidden-lg">
-        <a href="#" data-animate-hover="pulse">
-            <i class="fa fa-phone">(801) 602-0570</i>
-        </a>
-        <a href="#" data-animate-hover="pulse">
-            <i class="fa fa-envelope">shane.d.lee@gmail.com</i>
-        </a>
+        <i class="fa fa-phone">(801) 602-0570</i>
+        <i class="fa fa-envelope">shane.d.lee@gmail.com</i>
     </p>
       """
 
