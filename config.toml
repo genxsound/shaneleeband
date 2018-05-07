@@ -106,13 +106,13 @@ paginate = 10
     enable = true
     text = """
     <p class="hidden-sm hidden-xs">
-        <i class="fa fa-phone"> (801) 602-0570 </i>
+        <i class="fa fa-phone">&nbsp(801) 602-0570 </i>
         <br>
-        <i class="fa fa-envelope"> shane.d.lee@gmail.com </i>
+        <i class="fa fa-envelope">&nbspshane.d.lee@gmail.com </i>
     </p>
     <p class="hidden-md hidden-lg">
-        <i class="fa fa-phone">(801) 602-0570</i>
-        <i class="fa fa-envelope">shane.d.lee@gmail.com</i>
+        <i class="fa fa-phone">&nbsp(801) 602-0570 </i>
+        <i class="fa fa-envelope">&nbspshane.d.lee@gmail.com </i>
     </p>
       """
 
