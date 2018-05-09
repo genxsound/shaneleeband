@@ -38,6 +38,8 @@
 
                         <div class="col-sm-12 text-center">
                             <button type="submit" class="btn btn-template-main">
+                                <input type="hidden" name="_language" value="{{ .Site.Language.Lang }}" />
+                                <input type="text" name="_gotcha" style="display:none" />
                                 <i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}
                             </button>
                         </div>
