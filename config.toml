@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "shaneleeband"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-119729818-1"
+googleAnalytics = "UA-119720818-1"
 
 # Define the number of posts per page
 paginate = 10
