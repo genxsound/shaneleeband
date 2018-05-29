@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 title = "Shane Lee Band"
 theme = "hugo-universal-theme"
 themesDir = "themes"
