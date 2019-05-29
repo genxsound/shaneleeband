@@ -1,7 +1,7 @@
 ---
 title: Assembly at Eaglecrest 2019
 description: Eaglecrest Elementary Music Assembly
-date: 2019-05-21
+date: 2019-05-24
 tags:
   - JohnJay
   - Shane
@@ -13,7 +13,7 @@ author: John Jay
 weight: 2
 ---
 
-<img src="/img/blog/20180518.jpg" class="img-responsive" alt="Eaglecrest Music Assembly">
+<img src="/img/blog/20190524.jpg" class="img-responsive" alt="Eaglecrest Music Assembly">
 
 So, every Friday, my students and I walk down to the 1st grade and I teach the kids fun songs and bring an instrument of the week. It's my favorite 30 minutes of the entire week. Every spring, I bring my whole drum set and a couple random musician friends to teach the kids about "The Language of Music". We introduce our instruments and then discuss the fact that style, tempo, time signature and key signature help musicians that have never met be able to play music together. Then, we have a couple kids come up and "build" a song that we then play for them...it's kinda magical. 
 
