@@ -1,17 +1,14 @@
 weight: 1
-title: "Upcoming Shows"
+title: "Upcoming Shows 2019"
 # An API for getting events from google calendar
 # https://github.com/qualityshepherd/googleCalendarEventList
 description: >
   <ul class="list-style-none">
-    <li>Pleasant Valley Days - 6/30</li>
-    <li>Evanston 4th of July Celebration - 7/4</li>
-    <li>Homestead Concert Series - 7/7</li>
-    <li>Private Party - 7/20</li>
-    <li>Lehi Arts in the Park - 8/5</li>
-    <li>Mapleton Concert Series - 8/13</li>
-    <li>Pleasant Grove Concert Series - 8/19</li>
-    <li>Private Party - 9/1</li>
-    <li>Private Party - 12/8</li>
+    <li>Homestead Independence Day Concert - 7/3</li>
+    <li>Lehi Arts in the Park - 7/28</li>
+    <li>Pleasant Grove Concert Series - 8/18</li>
+    <li>Mapleton Concert Series - 8/19</li>
+    <li>Homestead Concert Series - 8/31</li>
+    <li>Pleasant Grove Heritage Days - 9/21</li>
   </ul>
 image: "img/carousel/live.jpg"
