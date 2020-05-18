@@ -1,14 +1,14 @@
 weight: 1
-title: "Upcoming Shows 2019"
+title: "Upcoming Shows 2020"
 # An API for getting events from google calendar
 # https://github.com/qualityshepherd/googleCalendarEventList
 description: >
   <ul class="list-style-none">
-    <li>Homestead Independence Day Concert - 7/3</li>
-    <li>Lehi Arts in the Park - 7/28</li>
-    <li>Pleasant Grove Concert Series - 8/18</li>
-    <li>Mapleton Concert Series - 8/19</li>
-    <li>Homestead Concert Series - 8/31</li>
-    <li>Pleasant Grove Heritage Days - 9/21</li>
+    <li>Jul 6 - Mapleton Concert Series</li>
+    <li>Aug 2 - PG Concert Series</li>
+    <li>Aug 8 - .5K Fundraiser (Lehi)</li>
+    <li>Aug 9 - Lehi Arts in the Park</li>
+    <li>Aug 10 - Music Mondays in the Park (Ogden)</li>
+    <li>Sep 14 - PG Heritage Days</li>
   </ul>
 image: "img/carousel/live.jpg"
