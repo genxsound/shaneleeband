@@ -1,10 +1,10 @@
 weight: 1
-title: "Upcoming Shows 2021"
+title: "Shows 2021"
 # An API for getting events from google calendar
 # https://github.com/qualityshepherd/googleCalendarEventList
 description: >
   <ul class="list-style-none">
-    <li>PG Food Truck Shows - May 28</li>
+    <li>PG Food Truck Show - May 28</li>
     <li>Private Party - Jun 19</li>
     <li>Private Party - Jun 28</li>
     <li>Zermatt Concert Series - Jul 10</li>
