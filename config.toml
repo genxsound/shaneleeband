@@ -80,7 +80,7 @@ paginate = 10
     email = "shane.d.lee@gmail.com"
 
     about_us = "<p>The Shane Lee Band is one of Utah's premier country bands.</p>"
-    copyright = "Copyright (c) 2003 - 2018, Shane Lee Band; all rights reserved."
+    copyright = "Copyright (c) 2003 - 2022, Shane Lee Band; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
