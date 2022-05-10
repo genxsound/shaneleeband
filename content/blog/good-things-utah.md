@@ -5,7 +5,7 @@ tags:
   - tv
 categories:
   - tv
-banner: img/banners/gtu2.jpg
+banner: /img/banners/gtu2.jpg
 author: Shane Lee
 weight: 1
 ---

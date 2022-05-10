@@ -7,7 +7,7 @@ tags:
   - Jennifer
 categories:
   - Bio
-banner: img/bio/jen.jpg
+banner: /img/bio/jen.jpg
 weight: 102
 ---
 

@@ -1,4 +1,5 @@
-baseurl = "/"
+#baseurl = "/"
+baseurl = "https://www.shaneleeband.com/"
 title = "Shane Lee Band"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -21,6 +22,11 @@ paginate = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
 

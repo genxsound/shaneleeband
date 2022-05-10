@@ -7,7 +7,7 @@ tags:
   - Shane
 categories:
   - Bio
-banner: img/bio/shane.jpg
+banner: /img/bio/shane.jpg
 weight: 101
 ---
 

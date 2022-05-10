@@ -7,7 +7,7 @@ tags:
   - JohnJay
 categories:
   - Bio
-banner: img/bio/john.jpg
+banner: /img/bio/john.jpg
 weight: 103
 ---
 

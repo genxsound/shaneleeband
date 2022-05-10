@@ -7,7 +7,7 @@ tags:
   - Bob
 categories:
   - Bio
-banner: img/bio/bob.jpg
+banner: /img/bio/bob.jpg
 weight: 105
 ---
 

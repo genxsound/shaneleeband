@@ -7,7 +7,7 @@ tags:
   - Jack
 categories:
   - Bio
-banner: img/bio/jack.jpg
+banner: /img/bio/jack.jpg
 weight: 106
 ---
 
