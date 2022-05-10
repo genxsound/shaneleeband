@@ -13,7 +13,7 @@ author: Shane Lee
 weight: 2
 ---
 
-<img src="/img/blog/20180518.jpg" class="img-responsive" alt="Eaglecrest Music Assembly">
+<img src="/img/blog/20180518.jpg" class="img-responsive" alt="Eaglecrest Music Assembly" />
 
 For the last 7 years or so John Jay and I have been putting on a music assembly at Eaglecrest Elementary in Lehi. John Jay brings his drums and I bring a bass. Sometimes we'll bring along another musician to help us out. We show the kids our instruments and teach them how they work. Then we go off on some little funk, rock riff for a while and get the kids dancing.
 
