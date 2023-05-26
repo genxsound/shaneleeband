@@ -1,14 +1,16 @@
 weight: 1
-title: "Shows 2022"
+title: "Shows 2023"
 # An API for getting events from google calendar
 # https://github.com/qualityshepherd/googleCalendarEventList
 description: >
   <ul class="list-style-none">
-    <li>Private Party - May 7</li>
-    <li><a href="https://www.strawberrydays.org/" style="color:#ffffff">Strawberry Days - Jun 14</a></li>
-    <li><a href="https://www.facebook.com/Scofield-Pleasant-Valley-Days-177213356332165/" style="color:#ffffff">Scofield Valley Days - Jul 2</a></li>
-    <li>Mapleton Concert Series - Jul 18</li>
-    <li><a href="http://justforkidsofutahcounty.com/" style="color:#ffffff">Fundraiser - Sep 10</a></li>
-    <li><a href="https://www.facebook.com/PGHeritageFestival/" style="color:#ffffff">PG Heritage Days - Sep 12</a></li>
+    <li>Wedding - Jun 14</li>
+    <li>Wedding - Jun 24</li>
+    <li>Private Party - Jun 6</li>
+    <li><a href="https://www.mapleton.org/departments/parks___recreation/events/index.php" style="color:#ffffff">Mapleton Concert Series - Jul 24</a></li>
+    <li>Wedding - Jul 29</li>
+    <li>Lindon Concert Series</li>
+    <li><a href="https://www.facebook.com/PGHeritageFestival/" style="color:#ffffff">PG Heritage Days - Sep 11</a></li>
+    <li><a href="http://justforkidsofutahcounty.com/" style="color:#ffffff">Lehi .5K Fundraiser - Sep 16</a></li>
   </ul>
 image: "img/carousel/live.jpg"
