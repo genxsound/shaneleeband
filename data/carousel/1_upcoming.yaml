@@ -1,16 +1,15 @@
 weight: 1
-title: "Shows 2025"
+title: "Shows 2026"
 # An API for getting events from google calendar
 # https://github.com/qualityshepherd/googleCalendarEventList
 description: >
   <ul class="list-style-none">
-    <li>Neighborhood Party - May 17</li>
-    <li><a href="https://www.facebook.com/events/1379684093357106/" style="color:#ffffff" target="_blank">Lehi Arts - Jul 6</li>
-    <li><a href="https://www.facebook.com/events/1885926545533230/" style="color:#ffffff" target="_blank">Spanish Fork Sounds of Summer - Jul 11</li>
-    <li><a href="https://www.facebook.com/events/659396153634787/"  style="color:#ffffff" target="_blank">Mapleton Concerts in the Park - Jul 14</li>
-    <li><a href="https://www.facebook.com/events/1756923625182207/" style="color:#ffffff" target="_blank">Salem Fair in the Square - Aug 9</li>
-    <li>Private Wedding - Aug 16</li>
-    <li><a href="https://www.facebook.com/events/701732175684500/" style="color:#ffffff" target="_blank">PG Heritage Festival - Sep 8</li>
-    <li><a href="https://www.facebook.com/events/1409305223545884/" style="color:#ffffff" target="_blank">Just For Kids Fundraiser - Sep 13</li>
+    <li><a href="https://www.facebook.com/events/1340366734612813/" style="color:#ffffff" target="_blank">Heber Market on Main - Jun 20</li>
+    <li><a href="https://www.facebook.com/events/2378129732696407/" style="color:#ffffff" target="_blank">Lehi Roundup Kickoff - Jun 21</li>
+    <li><a href="https://www.facebook.com/events/1259067769304282/" style="color:#ffffff" target="_blank">Mapleton Pioneer Days Concert - Jul 13</li>
+    <li><a href="https://www.facebook.com/events/1507245187721746/" style="color:#ffffff" target="_blank">Fridays on Vine - Jul 17</li>
+    <li><a href="https://www.facebook.com/events/1314569086838782/" style="color:#ffffff" target="_blank">Salem Days - Aug 8</li>
+    <li><a href="https://www.facebook.com/events/963932589672413/"  style="color:#ffffff" target="_blank">Tintic Silver Jubilee - Aug 15</li>
+    <li><a href="https://www.facebook.com/events/4099420693535075/" style="color:#ffffff" target="_blank">PG Heritage Days - Sep 14</li>
   </ul>
 image: "img/carousel/live.jpg"
